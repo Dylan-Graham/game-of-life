@@ -1,2 +1,2 @@
-# game-of-life, in Go
+# Conway's famous Game of Life recreated in Go
 
