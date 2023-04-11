@@ -1,3 +1,2 @@
-# game-of-life
+# game-of-life, in Go
 
-## in GO
